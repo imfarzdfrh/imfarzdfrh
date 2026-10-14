@@ -8,6 +8,7 @@ I build modern, clean and user-friendly interfaces.
 - React, Next.js
 - Tailwind CSS
 - UI / UX Design
+- Andriod / ios Development
 
 ### 🚀 What I Do
 - Responsive Web Design
